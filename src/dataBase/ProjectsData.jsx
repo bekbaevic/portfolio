@@ -13,7 +13,7 @@ import weather from "../images/projectImages/weather.png";
 
 export const ProjectsData = [
   {
-    id: 12,
+    id: 121,
     image: dashboardUsers,
     url: "https://users-dashboard-ebon.vercel.app/",
     title: "Users dashboard",
