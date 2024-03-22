@@ -7,14 +7,14 @@ import onlineShopDasboard from "../images/projectImages/onlineShopDashboard.png"
 import pixelArt from "../images/projectImages/pixelArt.png";
 import quizTime from "../images/projectImages/quiztime.png";
 import restCountries from "../images/projectImages/restCountries.png";
-import usersDashboard from "../images/projectImages/dashboardUsers.png";
+import dashboardUsers from "../images/projectImages/dashboardUsers.png";
 import tetris from "../images/projectImages/tetris.png";
 import weather from "../images/projectImages/weather.png";
 
 export const ProjectsData = [
   {
     id: 121,
-    image: usersDashboard,
+    image: dashboardUsers,
     url: "https://users-dashboard-ebon.vercel.app/",
     title: "Users dashboard",
   },
