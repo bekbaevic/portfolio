@@ -10,8 +10,14 @@ import restCountries from "../images/projectImages/restCountries.png";
 import usersDashboard from "../images/projectImages/usersDashboard.png";
 import tetris from "../images/projectImages/tetris.png";
 import weather from "../images/projectImages/weather.png";
-
+import kiyimKenshek from "../images/projectImages/kiyim-kenshek.png"
 export const ProjectsData = [
+  {
+    id: 122,
+    image: kiyimKenshek,
+    url: "https://kiyim-kenshek.vercel.app/",
+    title: "Kiyim-kenshek onlayn magazin",
+  },
   {
     id: 121,
     image: usersDashboard,
